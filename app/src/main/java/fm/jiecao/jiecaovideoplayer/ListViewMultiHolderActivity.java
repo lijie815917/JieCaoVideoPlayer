@@ -69,7 +69,7 @@ public class ListViewMultiHolderActivity extends AppCompatActivity {
 
         @Override
         public View getView(int position, View convertView, ViewGroup parent) {
-            //This is the point
+            //This is the point 测试
 
             if (getItemViewType(position) == 1) {
                 VideoHolder viewHolder;
